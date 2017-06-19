@@ -1,0 +1,58 @@
+﻿@model MvcPL.Models.SearchModel
+
+<button class="btn btn-default" style="width: 100%" type="button" data-toggle="collapse" data-target="#collapseSearch" aria-expanded="false" aria-controls="collapseExample">
+    Search
+</button>
+
+<div class="" id="collapseSearch">
+<div class="panel-body" >
+    @using (Ajax.BeginForm("Search", "Home", new AjaxOptions {UpdateTargetId = "audioTable",OnFailure= "searchFailure",OnSuccess="searchSuccess"}, new {id = "searchForm"}))
+    {
+        @Html.ValidationSummary()
+        <div class="row">
+            <div class="col-md-4">
+                @Html.LabelFor(c => c.Artist)
+            </div>
+            <div class="col-md-4">
+                @Html.LabelFor(c => c.Genre)
+            </div>
+            <div class="col-md-4">
+                @Html.LabelFor(c => c.SongName)
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                @Html.TextBoxFor(c => c.Artist)
+            </div>
+            <div class="col-md-4">
+                @Html.TextBoxFor(c => c.Genre)
+            </div>
+            <div class="col-md-4">
+                @Html.TextBoxFor(c => c.SongName)
+            </div>
+        </div>
+        <br/>
+        <center>
+            <button class="btn btn-primary"><i class="fa fa-search"></i> Search</button>
+        </center>
+    }
+</div>
+    </div>
+<br/>
+
+<script type="text/javascript">
+    function searchFailure(result) {
+        var obj = $.parseJSON(result.responseText);
+        alertify.error(obj.message);
+    }
+
+    function searchSuccess() {
+        document.getElementById("jsEnabled").style.visibility = 'visible';
+        document.getElementById("jsDisabled").style.visibility = 'hidden';
+
+
+        $('.edit-buttons-enabledJS').css('visibility', 'visible');
+        $('.edit-buttons-disbledJS').remove();
+    }
+</script>

@@ -1,0 +1,475 @@
+E:\Новая папка\AudioCardFiles\MvcPL\bin\ApplicationInsights.config
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\csc.exe
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\System.Collections.Immutable.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\System.Reflection.Metadata.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\vbc.exe
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe
+E:\Новая папка\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe.config
+E:\Новая папка\AudioCardFiles\MvcPL\bin\MvcPL.dll.config
+E:\Новая папка\AudioCardFiles\MvcPL\bin\MvcPL.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\MvcPL.pdb
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\BLL.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\DAL.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\DependencyResolver.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\EntityFramework.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Ninject.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\ORM.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Helpers.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Mvc.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Optimization.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Razor.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Webpages.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\WebActivatorEx.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\WebGrease.dll
+E:\Новая папка\AudioCardFiles\MvcPL\bin\BLL.pdb
+E:\Новая папка\AudioCardFiles\MvcPL\bin\DAL.pdb
+E:\Новая папка\AudioCardFiles\MvcPL\bin\DependencyResolver.pdb
+E:\Новая папка\AudioCardFiles\MvcPL\bin\ORM.pdb
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.pdb
+E:\Новая папка\AudioCardFiles\MvcPL\bin\EntityFramework.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Ninject.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Optimization.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Razor.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Webpages.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Helpers.xml
+E:\Новая папка\AudioCardFiles\MvcPL\bin\System.Web.Mvc.xml
+E:\Новая папка\AudioCardFiles\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+E:\Новая папка\AudioCardFiles\MvcPL\obj\Debug\MvcPL.dll
+E:\Новая папка\AudioCardFiles\MvcPL\obj\Debug\MvcPL.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\ApplicationInsights.config
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\csc.exe
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\System.Collections.Immutable.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\vbc.exe
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe.config
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\NLog.config
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\MvcPL.dll.config
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\MvcPL.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\MvcPL.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\BLL.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\DAL.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\DependencyResolver.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\EntityFramework.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Logger.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Ninject.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\ORM.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Helpers.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Mvc.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Optimization.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Razor.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Webpages.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\WebActivatorEx.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\WebGrease.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Entity.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\NLog.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\BLL.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\DAL.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\DependencyResolver.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Logger.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\ORM.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\EntityFramework.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Ninject.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Optimization.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Razor.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Webpages.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Helpers.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Mvc.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\Entity.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\NLog.xml
+D:\MyFinalProject\AudioCardFiles\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\MyFinalProject\AudioCardFiles\MvcPL\obj\Debug\MvcPL.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\obj\Debug\MvcPL.pdb
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Helpers.Crypto.dll
+D:\MyFinalProject\AudioCardFiles\MvcPL\bin\System.Web.Helpers.Crypto.pdb
+F:\AudioCardFiles\MvcPL\bin\ApplicationInsights.config
+F:\AudioCardFiles\MvcPL\bin\roslyn\csc.exe
+F:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AudioCardFiles\MvcPL\bin\roslyn\System.Collections.Immutable.dll
+F:\AudioCardFiles\MvcPL\bin\roslyn\System.Reflection.Metadata.dll
+F:\AudioCardFiles\MvcPL\bin\roslyn\vbc.exe
+F:\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe
+F:\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe.config
+F:\AudioCardFiles\MvcPL\bin\NLog.config
+F:\AudioCardFiles\MvcPL\bin\MvcPL.dll.config
+F:\AudioCardFiles\MvcPL\bin\MvcPL.dll
+F:\AudioCardFiles\MvcPL\bin\MvcPL.pdb
+F:\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.dll
+F:\AudioCardFiles\MvcPL\bin\BLL.dll
+F:\AudioCardFiles\MvcPL\bin\DAL.dll
+F:\AudioCardFiles\MvcPL\bin\DependencyResolver.dll
+F:\AudioCardFiles\MvcPL\bin\Entity.dll
+F:\AudioCardFiles\MvcPL\bin\EntityFramework.dll
+F:\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.dll
+F:\AudioCardFiles\MvcPL\bin\Logger.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.Agent.Intercept.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AudioCardFiles\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+F:\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.dll
+F:\AudioCardFiles\MvcPL\bin\Ninject.dll
+F:\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.dll
+F:\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.dll
+F:\AudioCardFiles\MvcPL\bin\ORM.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Mvc.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Optimization.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Razor.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.dll
+F:\AudioCardFiles\MvcPL\bin\WebActivatorEx.dll
+F:\AudioCardFiles\MvcPL\bin\WebGrease.dll
+F:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.Crypto.dll
+F:\AudioCardFiles\MvcPL\bin\NLog.dll
+F:\AudioCardFiles\MvcPL\bin\BLL.pdb
+F:\AudioCardFiles\MvcPL\bin\DAL.pdb
+F:\AudioCardFiles\MvcPL\bin\DependencyResolver.pdb
+F:\AudioCardFiles\MvcPL\bin\Entity.pdb
+F:\AudioCardFiles\MvcPL\bin\Logger.pdb
+F:\AudioCardFiles\MvcPL\bin\ORM.pdb
+F:\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.pdb
+F:\AudioCardFiles\MvcPL\bin\EntityFramework.xml
+F:\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.xml
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.xml
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.xml
+F:\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.xml
+F:\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.xml
+F:\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.xml
+F:\AudioCardFiles\MvcPL\bin\Ninject.xml
+F:\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.xml
+F:\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Optimization.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Razor.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Mvc.xml
+F:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.Crypto.pdb
+F:\AudioCardFiles\MvcPL\bin\NLog.xml
+F:\AudioCardFiles\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+F:\AudioCardFiles\MvcPL\obj\Debug\MvcPL.dll
+F:\AudioCardFiles\MvcPL\obj\Debug\MvcPL.pdb
+D:\AudioCardFiles\MvcPL\bin\ApplicationInsights.config
+D:\AudioCardFiles\MvcPL\bin\roslyn\csc.exe
+D:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AudioCardFiles\MvcPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AudioCardFiles\MvcPL\bin\roslyn\System.Collections.Immutable.dll
+D:\AudioCardFiles\MvcPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\AudioCardFiles\MvcPL\bin\roslyn\vbc.exe
+D:\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe
+D:\AudioCardFiles\MvcPL\bin\roslyn\VBCSCompiler.exe.config
+D:\AudioCardFiles\MvcPL\bin\NLog.config
+D:\AudioCardFiles\MvcPL\bin\MvcPL.dll.config
+D:\AudioCardFiles\MvcPL\bin\MvcPL.dll
+D:\AudioCardFiles\MvcPL\bin\MvcPL.pdb
+D:\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.dll
+D:\AudioCardFiles\MvcPL\bin\BLL.dll
+D:\AudioCardFiles\MvcPL\bin\DAL.dll
+D:\AudioCardFiles\MvcPL\bin\DependencyResolver.dll
+D:\AudioCardFiles\MvcPL\bin\Entity.dll
+D:\AudioCardFiles\MvcPL\bin\EntityFramework.dll
+D:\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\AudioCardFiles\MvcPL\bin\Logger.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AudioCardFiles\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.dll
+D:\AudioCardFiles\MvcPL\bin\Ninject.dll
+D:\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.dll
+D:\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\AudioCardFiles\MvcPL\bin\ORM.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Mvc.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Optimization.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Razor.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.dll
+D:\AudioCardFiles\MvcPL\bin\WebActivatorEx.dll
+D:\AudioCardFiles\MvcPL\bin\WebGrease.dll
+D:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles\MvcPL\bin\NLog.dll
+D:\AudioCardFiles\MvcPL\bin\BLL.pdb
+D:\AudioCardFiles\MvcPL\bin\DAL.pdb
+D:\AudioCardFiles\MvcPL\bin\DependencyResolver.pdb
+D:\AudioCardFiles\MvcPL\bin\Entity.pdb
+D:\AudioCardFiles\MvcPL\bin\Logger.pdb
+D:\AudioCardFiles\MvcPL\bin\ORM.pdb
+D:\AudioCardFiles\MvcPL\bin\Antlr3.Runtime.pdb
+D:\AudioCardFiles\MvcPL\bin\EntityFramework.xml
+D:\AudioCardFiles\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.DependencyCollector.xml
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.Web.xml
+D:\AudioCardFiles\MvcPL\bin\Microsoft.AI.WindowsServer.xml
+D:\AudioCardFiles\MvcPL\bin\Microsoft.ApplicationInsights.xml
+D:\AudioCardFiles\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AudioCardFiles\MvcPL\bin\Newtonsoft.Json.xml
+D:\AudioCardFiles\MvcPL\bin\Ninject.xml
+D:\AudioCardFiles\MvcPL\bin\Ninject.Web.Common.xml
+D:\AudioCardFiles\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Optimization.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Razor.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Deployment.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Webpages.Razor.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Mvc.xml
+D:\AudioCardFiles\MvcPL\bin\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles\MvcPL\bin\NLog.xml
+D:\AudioCardFiles\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles\MvcPL\obj\Debug\MvcPL.dll
+D:\AudioCardFiles\MvcPL\obj\Debug\MvcPL.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\ApplicationInsights.config
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\csc.exe
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\System.Collections.Immutable.dll
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\vbc.exe
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\VBCSCompiler.exe
+D:\AudioCardFiles — копия\MvcPL\bin\roslyn\VBCSCompiler.exe.config
+D:\AudioCardFiles — копия\MvcPL\bin\NLog.config
+D:\AudioCardFiles — копия\MvcPL\bin\MvcPL.dll.config
+D:\AudioCardFiles — копия\MvcPL\bin\MvcPL.dll
+D:\AudioCardFiles — копия\MvcPL\bin\MvcPL.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\Antlr3.Runtime.dll
+D:\AudioCardFiles — копия\MvcPL\bin\BLL.dll
+D:\AudioCardFiles — копия\MvcPL\bin\DAL.dll
+D:\AudioCardFiles — копия\MvcPL\bin\DependencyResolver.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Entity.dll
+D:\AudioCardFiles — копия\MvcPL\bin\EntityFramework.dll
+D:\AudioCardFiles — копия\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Logger.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.DependencyCollector.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.Web.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.WindowsServer.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.ApplicationInsights.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Newtonsoft.Json.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Ninject.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Ninject.Web.Common.dll
+D:\AudioCardFiles — копия\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\AudioCardFiles — копия\MvcPL\bin\ORM.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Helpers.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Mvc.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Optimization.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Razor.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Webpages.Deployment.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Webpages.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Webpages.Razor.dll
+D:\AudioCardFiles — копия\MvcPL\bin\WebActivatorEx.dll
+D:\AudioCardFiles — копия\MvcPL\bin\WebGrease.dll
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles — копия\MvcPL\bin\NLog.dll
+D:\AudioCardFiles — копия\MvcPL\bin\BLL.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\DAL.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\DependencyResolver.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\Entity.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\Logger.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\ORM.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\Antlr3.Runtime.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\EntityFramework.xml
+D:\AudioCardFiles — копия\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.DependencyCollector.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.Web.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.AI.WindowsServer.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.ApplicationInsights.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Newtonsoft.Json.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Ninject.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Ninject.Web.Common.xml
+D:\AudioCardFiles — копия\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Optimization.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Razor.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Webpages.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Webpages.Deployment.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Webpages.Razor.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Helpers.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Mvc.xml
+D:\AudioCardFiles — копия\MvcPL\bin\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles — копия\MvcPL\bin\NLog.xml
+D:\AudioCardFiles — копия\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles — копия\MvcPL\obj\Debug\MvcPL.dll
+D:\AudioCardFiles — копия\MvcPL\obj\Debug\MvcPL.pdb
+D:\AudioCardFiles2\MvcPL\bin\ApplicationInsights.config
+D:\AudioCardFiles2\MvcPL\bin\roslyn\csc.exe
+D:\AudioCardFiles2\MvcPL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\AudioCardFiles2\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\AudioCardFiles2\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\AudioCardFiles2\MvcPL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\AudioCardFiles2\MvcPL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\AudioCardFiles2\MvcPL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\AudioCardFiles2\MvcPL\bin\roslyn\System.Collections.Immutable.dll
+D:\AudioCardFiles2\MvcPL\bin\roslyn\System.Reflection.Metadata.dll
+D:\AudioCardFiles2\MvcPL\bin\roslyn\vbc.exe
+D:\AudioCardFiles2\MvcPL\bin\roslyn\VBCSCompiler.exe
+D:\AudioCardFiles2\MvcPL\bin\roslyn\VBCSCompiler.exe.config
+D:\AudioCardFiles2\MvcPL\bin\NLog.config
+D:\AudioCardFiles2\MvcPL\bin\MvcPL.dll.config
+D:\AudioCardFiles2\MvcPL\bin\MvcPL.dll
+D:\AudioCardFiles2\MvcPL\bin\MvcPL.pdb
+D:\AudioCardFiles2\MvcPL\bin\Antlr3.Runtime.dll
+D:\AudioCardFiles2\MvcPL\bin\BLL.dll
+D:\AudioCardFiles2\MvcPL\bin\DAL.dll
+D:\AudioCardFiles2\MvcPL\bin\DependencyResolver.dll
+D:\AudioCardFiles2\MvcPL\bin\Entity.dll
+D:\AudioCardFiles2\MvcPL\bin\EntityFramework.dll
+D:\AudioCardFiles2\MvcPL\bin\EntityFramework.SqlServer.dll
+D:\AudioCardFiles2\MvcPL\bin\Logger.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.DependencyCollector.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.Web.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.WindowsServer.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.ApplicationInsights.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.Web.Infrastructure.dll
+D:\AudioCardFiles2\MvcPL\bin\Newtonsoft.Json.dll
+D:\AudioCardFiles2\MvcPL\bin\Ninject.dll
+D:\AudioCardFiles2\MvcPL\bin\Ninject.Web.Common.dll
+D:\AudioCardFiles2\MvcPL\bin\Ninject.Web.Mvc.dll
+D:\AudioCardFiles2\MvcPL\bin\ORM.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Helpers.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Mvc.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Optimization.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Razor.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Webpages.Deployment.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Webpages.dll
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Webpages.Razor.dll
+D:\AudioCardFiles2\MvcPL\bin\WebActivatorEx.dll
+D:\AudioCardFiles2\MvcPL\bin\WebGrease.dll
+D:\AudioCardFiles2\MvcPL\bin\NLog.dll
+D:\AudioCardFiles2\MvcPL\bin\BLL.pdb
+D:\AudioCardFiles2\MvcPL\bin\DAL.pdb
+D:\AudioCardFiles2\MvcPL\bin\DependencyResolver.pdb
+D:\AudioCardFiles2\MvcPL\bin\Entity.pdb
+D:\AudioCardFiles2\MvcPL\bin\Logger.pdb
+D:\AudioCardFiles2\MvcPL\bin\ORM.pdb
+D:\AudioCardFiles2\MvcPL\bin\Antlr3.Runtime.pdb
+D:\AudioCardFiles2\MvcPL\bin\EntityFramework.xml
+D:\AudioCardFiles2\MvcPL\bin\EntityFramework.SqlServer.xml
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.DependencyCollector.xml
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.Web.xml
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.AI.WindowsServer.xml
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.ApplicationInsights.xml
+D:\AudioCardFiles2\MvcPL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AudioCardFiles2\MvcPL\bin\Newtonsoft.Json.xml
+D:\AudioCardFiles2\MvcPL\bin\Ninject.xml
+D:\AudioCardFiles2\MvcPL\bin\Ninject.Web.Common.xml
+D:\AudioCardFiles2\MvcPL\bin\Ninject.Web.Mvc.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Optimization.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Razor.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Webpages.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Webpages.Deployment.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Webpages.Razor.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Helpers.xml
+D:\AudioCardFiles2\MvcPL\bin\System.Web.Mvc.xml
+D:\AudioCardFiles2\MvcPL\bin\NLog.xml
+D:\AudioCardFiles2\MvcPL\obj\Debug\MvcPL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles2\MvcPL\obj\Debug\MvcPL.dll
+D:\AudioCardFiles2\MvcPL\obj\Debug\MvcPL.pdb

@@ -1,0 +1,117 @@
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.pdb
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\BLL.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\DAL.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\ORM.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\BLL.pdb
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\DAL.pdb
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\ORM.pdb
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.xml
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.xml
+E:\Новая папка\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+E:\Новая папка\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+E:\Новая папка\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.dll
+E:\Новая папка\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\NLog.config
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\BLL.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\DAL.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\ORM.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\Entity.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\BLL.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\DAL.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\ORM.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.xml
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.xml
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\Entity.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.pdb
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\MyFinalProject\AudioCardFiles\DependencyResolver\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+D:\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\DependencyResolver.pdb
+D:\AudioCardFiles\DependencyResolver\bin\Debug\BLL.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\DAL.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\ORM.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\Entity.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles\DependencyResolver\bin\Debug\BLL.pdb
+D:\AudioCardFiles\DependencyResolver\bin\Debug\DAL.pdb
+D:\AudioCardFiles\DependencyResolver\bin\Debug\ORM.pdb
+D:\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.xml
+D:\AudioCardFiles\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+D:\AudioCardFiles\DependencyResolver\bin\Debug\Entity.pdb
+D:\AudioCardFiles\DependencyResolver\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.dll
+D:\AudioCardFiles\DependencyResolver\obj\Debug\DependencyResolver.pdb
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\NLog.config
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\DependencyResolver.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\DependencyResolver.pdb
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\BLL.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\DAL.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\Ninject.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\ORM.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\Entity.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\BLL.pdb
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\DAL.pdb
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\ORM.pdb
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\Ninject.xml
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\Entity.pdb
+D:\AudioCardFiles — копия\DependencyResolver\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles — копия\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles — копия\DependencyResolver\obj\Debug\DependencyResolver.dll
+D:\AudioCardFiles — копия\DependencyResolver\obj\Debug\DependencyResolver.pdb
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\NLog.config
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\DependencyResolver.dll.config
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\DependencyResolver.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\DependencyResolver.pdb
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\BLL.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\DAL.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\Ninject.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\Ninject.Web.Common.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\ORM.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\Entity.dll
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\BLL.pdb
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\DAL.pdb
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\ORM.pdb
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\Ninject.xml
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\Ninject.Web.Common.xml
+D:\AudioCardFiles2\DependencyResolver\bin\Debug\Entity.pdb
+D:\AudioCardFiles2\DependencyResolver\obj\Debug\DependencyResolver.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles2\DependencyResolver\obj\Debug\DependencyResolver.dll
+D:\AudioCardFiles2\DependencyResolver\obj\Debug\DependencyResolver.pdb

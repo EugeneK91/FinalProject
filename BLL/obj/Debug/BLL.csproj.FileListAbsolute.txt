@@ -1,0 +1,83 @@
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\BLL.dll
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\BLL.pdb
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\DAL.dll
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\EntityFramework.dll
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\ORM.dll
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\DAL.pdb
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\EntityFramework.xml
+E:\Новая папка\AudioCardFiles\BLL\bin\Debug\ORM.pdb
+E:\Новая папка\AudioCardFiles\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Новая папка\AudioCardFiles\BLL\obj\Debug\BLL.dll
+E:\Новая папка\AudioCardFiles\BLL\obj\Debug\BLL.pdb
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\NLog.config
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\BLL.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\BLL.pdb
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\DAL.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\Entity.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\Logger.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\EntityFramework.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\NLog.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\DAL.pdb
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\Entity.pdb
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\Logger.pdb
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\EntityFramework.xml
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\NLog.xml
+D:\MyFinalProject\AudioCardFiles\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\MyFinalProject\AudioCardFiles\BLL\obj\Debug\BLL.dll
+D:\MyFinalProject\AudioCardFiles\BLL\obj\Debug\BLL.pdb
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\MyFinalProject\AudioCardFiles\BLL\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles\BLL\bin\Debug\NLog.config
+D:\AudioCardFiles\BLL\bin\Debug\BLL.dll
+D:\AudioCardFiles\BLL\bin\Debug\BLL.pdb
+D:\AudioCardFiles\BLL\bin\Debug\DAL.dll
+D:\AudioCardFiles\BLL\bin\Debug\Entity.dll
+D:\AudioCardFiles\BLL\bin\Debug\Logger.dll
+D:\AudioCardFiles\BLL\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles\BLL\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles\BLL\bin\Debug\NLog.dll
+D:\AudioCardFiles\BLL\bin\Debug\DAL.pdb
+D:\AudioCardFiles\BLL\bin\Debug\Entity.pdb
+D:\AudioCardFiles\BLL\bin\Debug\Logger.pdb
+D:\AudioCardFiles\BLL\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles\BLL\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles\BLL\bin\Debug\NLog.xml
+D:\AudioCardFiles\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles\BLL\obj\Debug\BLL.dll
+D:\AudioCardFiles\BLL\obj\Debug\BLL.pdb
+D:\AudioCardFiles — копия\BLL\bin\Debug\NLog.config
+D:\AudioCardFiles — копия\BLL\bin\Debug\BLL.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\BLL.pdb
+D:\AudioCardFiles — копия\BLL\bin\Debug\DAL.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\Entity.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\Logger.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\NLog.dll
+D:\AudioCardFiles — копия\BLL\bin\Debug\DAL.pdb
+D:\AudioCardFiles — копия\BLL\bin\Debug\Entity.pdb
+D:\AudioCardFiles — копия\BLL\bin\Debug\Logger.pdb
+D:\AudioCardFiles — копия\BLL\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles — копия\BLL\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles — копия\BLL\bin\Debug\NLog.xml
+D:\AudioCardFiles — копия\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles — копия\BLL\obj\Debug\BLL.dll
+D:\AudioCardFiles — копия\BLL\obj\Debug\BLL.pdb
+D:\AudioCardFiles2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles2\BLL\obj\Debug\BLL.dll
+D:\AudioCardFiles2\BLL\obj\Debug\BLL.pdb
+D:\AudioCardFiles2\BLL\bin\Debug\NLog.config
+D:\AudioCardFiles2\BLL\bin\Debug\BLL.dll
+D:\AudioCardFiles2\BLL\bin\Debug\BLL.pdb
+D:\AudioCardFiles2\BLL\bin\Debug\DAL.dll
+D:\AudioCardFiles2\BLL\bin\Debug\Entity.dll
+D:\AudioCardFiles2\BLL\bin\Debug\Logger.dll
+D:\AudioCardFiles2\BLL\bin\Debug\System.Web.Helpers.Crypto.dll
+D:\AudioCardFiles2\BLL\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles2\BLL\bin\Debug\NLog.dll
+D:\AudioCardFiles2\BLL\bin\Debug\DAL.pdb
+D:\AudioCardFiles2\BLL\bin\Debug\Entity.pdb
+D:\AudioCardFiles2\BLL\bin\Debug\Logger.pdb
+D:\AudioCardFiles2\BLL\bin\Debug\System.Web.Helpers.Crypto.pdb
+D:\AudioCardFiles2\BLL\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles2\BLL\bin\Debug\NLog.xml

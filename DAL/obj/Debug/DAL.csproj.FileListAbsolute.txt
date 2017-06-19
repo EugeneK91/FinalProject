@@ -1,0 +1,76 @@
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\NLog.config
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\DAL.dll.config
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\DAL.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\DAL.pdb
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\Entity.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\EntityFramework.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\Logger.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\ORM.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\NLog.dll
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\Entity.pdb
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\Logger.pdb
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\ORM.pdb
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\EntityFramework.xml
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFinalProject\AudioCardFiles\DAL\bin\Debug\NLog.xml
+D:\MyFinalProject\AudioCardFiles\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MyFinalProject\AudioCardFiles\DAL\obj\Debug\DAL.dll
+D:\MyFinalProject\AudioCardFiles\DAL\obj\Debug\DAL.pdb
+D:\AudioCardFiles\DAL\bin\Debug\NLog.config
+D:\AudioCardFiles\DAL\bin\Debug\DAL.dll.config
+D:\AudioCardFiles\DAL\bin\Debug\DAL.dll
+D:\AudioCardFiles\DAL\bin\Debug\DAL.pdb
+D:\AudioCardFiles\DAL\bin\Debug\Entity.dll
+D:\AudioCardFiles\DAL\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles\DAL\bin\Debug\Logger.dll
+D:\AudioCardFiles\DAL\bin\Debug\ORM.dll
+D:\AudioCardFiles\DAL\bin\Debug\NLog.dll
+D:\AudioCardFiles\DAL\bin\Debug\Entity.pdb
+D:\AudioCardFiles\DAL\bin\Debug\Logger.pdb
+D:\AudioCardFiles\DAL\bin\Debug\ORM.pdb
+D:\AudioCardFiles\DAL\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles\DAL\bin\Debug\NLog.xml
+D:\AudioCardFiles\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles\DAL\obj\Debug\DAL.dll
+D:\AudioCardFiles\DAL\obj\Debug\DAL.pdb
+D:\AudioCardFiles — копия\DAL\bin\Debug\NLog.config
+D:\AudioCardFiles — копия\DAL\bin\Debug\DAL.dll.config
+D:\AudioCardFiles — копия\DAL\bin\Debug\DAL.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\DAL.pdb
+D:\AudioCardFiles — копия\DAL\bin\Debug\Entity.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\Logger.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\ORM.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\NLog.dll
+D:\AudioCardFiles — копия\DAL\bin\Debug\Entity.pdb
+D:\AudioCardFiles — копия\DAL\bin\Debug\Logger.pdb
+D:\AudioCardFiles — копия\DAL\bin\Debug\ORM.pdb
+D:\AudioCardFiles — копия\DAL\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles — копия\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles — копия\DAL\bin\Debug\NLog.xml
+D:\AudioCardFiles — копия\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles — копия\DAL\obj\Debug\DAL.dll
+D:\AudioCardFiles — копия\DAL\obj\Debug\DAL.pdb
+D:\AudioCardFiles2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles2\DAL\obj\Debug\DAL.dll
+D:\AudioCardFiles2\DAL\obj\Debug\DAL.pdb
+D:\AudioCardFiles2\DAL\bin\Debug\NLog.config
+D:\AudioCardFiles2\DAL\bin\Debug\DAL.dll.config
+D:\AudioCardFiles2\DAL\bin\Debug\DAL.dll
+D:\AudioCardFiles2\DAL\bin\Debug\DAL.pdb
+D:\AudioCardFiles2\DAL\bin\Debug\Entity.dll
+D:\AudioCardFiles2\DAL\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles2\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles2\DAL\bin\Debug\Logger.dll
+D:\AudioCardFiles2\DAL\bin\Debug\ORM.dll
+D:\AudioCardFiles2\DAL\bin\Debug\NLog.dll
+D:\AudioCardFiles2\DAL\bin\Debug\Entity.pdb
+D:\AudioCardFiles2\DAL\bin\Debug\Logger.pdb
+D:\AudioCardFiles2\DAL\bin\Debug\ORM.pdb
+D:\AudioCardFiles2\DAL\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles2\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles2\DAL\bin\Debug\NLog.xml

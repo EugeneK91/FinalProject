@@ -1,0 +1,68 @@
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\NLog.config
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\ORM.dll.config
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\ORM.dll
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\ORM.pdb
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\Entity.dll
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\EntityFramework.dll
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\Logger.dll
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\NLog.dll
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\Entity.pdb
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\Logger.pdb
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\EntityFramework.xml
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyFinalProject\AudioCardFiles\ORM\bin\Debug\NLog.xml
+D:\MyFinalProject\AudioCardFiles\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\MyFinalProject\AudioCardFiles\ORM\obj\Debug\ORM.dll
+D:\MyFinalProject\AudioCardFiles\ORM\obj\Debug\ORM.pdb
+D:\AudioCardFiles\ORM\bin\Debug\NLog.config
+D:\AudioCardFiles\ORM\bin\Debug\ORM.dll.config
+D:\AudioCardFiles\ORM\bin\Debug\ORM.dll
+D:\AudioCardFiles\ORM\bin\Debug\ORM.pdb
+D:\AudioCardFiles\ORM\bin\Debug\Entity.dll
+D:\AudioCardFiles\ORM\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles\ORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles\ORM\bin\Debug\Logger.dll
+D:\AudioCardFiles\ORM\bin\Debug\NLog.dll
+D:\AudioCardFiles\ORM\bin\Debug\Entity.pdb
+D:\AudioCardFiles\ORM\bin\Debug\Logger.pdb
+D:\AudioCardFiles\ORM\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles\ORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles\ORM\bin\Debug\NLog.xml
+D:\AudioCardFiles\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles\ORM\obj\Debug\ORM.dll
+D:\AudioCardFiles\ORM\obj\Debug\ORM.pdb
+D:\AudioCardFiles — копия\ORM\bin\Debug\NLog.config
+D:\AudioCardFiles — копия\ORM\bin\Debug\ORM.dll.config
+D:\AudioCardFiles — копия\ORM\bin\Debug\ORM.dll
+D:\AudioCardFiles — копия\ORM\bin\Debug\ORM.pdb
+D:\AudioCardFiles — копия\ORM\bin\Debug\Entity.dll
+D:\AudioCardFiles — копия\ORM\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles — копия\ORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles — копия\ORM\bin\Debug\Logger.dll
+D:\AudioCardFiles — копия\ORM\bin\Debug\NLog.dll
+D:\AudioCardFiles — копия\ORM\bin\Debug\Entity.pdb
+D:\AudioCardFiles — копия\ORM\bin\Debug\Logger.pdb
+D:\AudioCardFiles — копия\ORM\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles — копия\ORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles — копия\ORM\bin\Debug\NLog.xml
+D:\AudioCardFiles — копия\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles — копия\ORM\obj\Debug\ORM.dll
+D:\AudioCardFiles — копия\ORM\obj\Debug\ORM.pdb
+D:\AudioCardFiles2\ORM\bin\Debug\NLog.config
+D:\AudioCardFiles2\ORM\bin\Debug\ORM.dll.config
+D:\AudioCardFiles2\ORM\bin\Debug\ORM.dll
+D:\AudioCardFiles2\ORM\bin\Debug\ORM.pdb
+D:\AudioCardFiles2\ORM\bin\Debug\Entity.dll
+D:\AudioCardFiles2\ORM\bin\Debug\EntityFramework.dll
+D:\AudioCardFiles2\ORM\bin\Debug\EntityFramework.SqlServer.dll
+D:\AudioCardFiles2\ORM\bin\Debug\Logger.dll
+D:\AudioCardFiles2\ORM\bin\Debug\NLog.dll
+D:\AudioCardFiles2\ORM\bin\Debug\Entity.pdb
+D:\AudioCardFiles2\ORM\bin\Debug\Logger.pdb
+D:\AudioCardFiles2\ORM\bin\Debug\EntityFramework.xml
+D:\AudioCardFiles2\ORM\bin\Debug\EntityFramework.SqlServer.xml
+D:\AudioCardFiles2\ORM\bin\Debug\NLog.xml
+D:\AudioCardFiles2\ORM\obj\Debug\ORM.csprojResolveAssemblyReference.cache
+D:\AudioCardFiles2\ORM\obj\Debug\ORM.dll
+D:\AudioCardFiles2\ORM\obj\Debug\ORM.pdb

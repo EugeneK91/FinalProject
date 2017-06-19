@@ -1,0 +1,82 @@
+﻿@using System.Data.Entity.Core.Common.CommandTrees.ExpressionBuilder
+@model MvcPL.Models.AccountModel.AudioFileViewModel
+
+@{
+    ViewBag.Title = "AddAudioFile";
+    Layout = ViewBag.isPartial ? null :"~/Views/Shared/_Layout.cshtml";
+}
+
+    @using (Html.BeginForm("AddAudioFile", "Home", FormMethod.Post, new { enctype = "multipart/form-data", id = "form-create" }))
+    {
+        @Html.HiddenFor(c => c.Id)
+        <div class="form-group">
+            <div class="row">
+                @Html.LabelFor(m => m.Artist, new {@class = "col-md-3 control-label"})
+                <div class="col-md-5">
+                    @Html.TextBoxFor(m => m.Artist, new {@class = "form-control"})
+                </div>
+                <div class="col-md-4">
+                    @Html.ValidationMessageFor(m => m.Artist, "", new {@class = "text-danger"})
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                @Html.LabelFor(m => m.Genre, new {@class = "col-md-3 control-label"})
+                <div class="col-md-5">
+                    @Html.TextBoxFor(m => m.Genre, new {@class = "form-control"})
+                </div>
+                <div class="col-md-4">
+                    @Html.ValidationMessageFor(m => m.Genre, "", new {@class = "text-danger"})
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="row">
+                @Html.LabelFor(m => m.SongName, new {@class = "col-md-3 control-label"})
+                <div class="col-md-5">
+                    @Html.TextBoxFor(m => m.SongName, new {@class = "form-control"})
+                </div>
+                <div class="col-md-4">
+                    @Html.ValidationMessageFor(m => m.SongName, "", new {@class = "text-danger"})
+                </div>
+            </div>
+        </div>
+        if(Model?.Body != null)
+         {
+             <div class="form-group">
+                 <div class="row">
+                     @Html.Label("Added File", new {@class = "col-md-3 control-label"})
+                     <div class="col-md-9">
+                         @Html.Raw(Model.Artist + "-" + Model.SongName)
+                     </div>
+                 </div>
+             </div>
+         }
+        <div class="form-group">
+            <div class="row">
+                @Html.Label("File", new {@class = "col-md-3 control-label"})
+                <div class="col-md-9">
+                    <div class="input-group">
+                        <input class="form-control" type="file" id="inputFile" name="Body" />
+                        <label for="inputFile" class="customLabel" style="margin-left: -370px !important;">Choose a file</label>
+                    </div>
+                    <div class="input-group">
+                    </div>
+                </div>
+            </div>
+        </div>
+        if (!Request.IsAjaxRequest())
+         {
+             <div class="form-group">
+             <div class="col-md-offset-2 col-md-10">
+             <div class="input-group">
+                 <button type="submit" class="btn btn-primary">Save</button>
+                     </div>
+                 </div>
+             </div>
+         }
+
+    }
+
+@Scripts.Render("~/bundles/Site")

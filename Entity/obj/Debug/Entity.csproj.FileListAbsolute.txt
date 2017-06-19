@@ -1,0 +1,5 @@
+D:\MyFinalProject\AudioCardFiles\Entity\bin\Debug\Entity.dll
+D:\MyFinalProject\AudioCardFiles\Entity\bin\Debug\Entity.pdb
+D:\MyFinalProject\AudioCardFiles\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\MyFinalProject\AudioCardFiles\Entity\obj\Debug\Entity.dll
+D:\MyFinalProject\AudioCardFiles\Entity\obj\Debug\Entity.pdb

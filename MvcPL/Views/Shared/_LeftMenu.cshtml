@@ -1,0 +1,70 @@
+﻿@{
+    ViewBag.Title = "Files";
+    
+}
+<div class="col-md-3">
+    <div class="profile-sidebar">
+        <!-- SIDEBAR USERPIC -->
+        <div class="profile-userpic">
+            @if (@Session["Photo"] == null) {
+                <img src="~/Content/images/default_avatar.png" class="img-responsive" alt=""/>
+            } else {
+                @Html.Raw("<img class=\"img-responsive\" style = \"height: 200px; width: 200px;\" src=\"data:image/jpeg;base64," + Convert.ToBase64String(((Byte[]) Session["Photo"])) + "\" />")
+            }
+        </div>
+        <!-- END SIDEBAR USERPIC -->
+        <!-- SIDEBAR USER TITLE -->
+        <div class="profile-usertitle">
+            <div class="profile-usertitle-name">
+                @if (@Session["Name"] != null) {
+                    @Session["Name"]
+                } else {
+                    @Html.Label("Anonim")
+                }
+
+            </div>
+            <div class="profile-usertitle-job">
+                @if (User.IsInRole("User")) {
+                    @Html.Label("User");
+                } else if (User.IsInRole("Admin")) {
+                    @Html.Label("Administrator");
+                } else {
+                    @Html.Label("Guest");
+                }
+            </div>
+        </div>
+        <!-- END SIDEBAR USER TITLE -->
+        <!-- SIDEBAR MENU -->
+        <div class="profile-usermenu" id ="menu">
+            <ul class="nav">
+                <li>
+                    @Html.ActionLink("Audio Files", "Index", "Home")
+                </li>
+                @if (User.Identity.IsAuthenticated) {
+                    <li>
+                        @Html.ActionLink("Edit Profile", "Edit", "User",new { isPartial = false },new { })
+                    </li>
+                    if (User.IsInRole("Admin")) {
+                        <li>
+                            @Html.ActionLink("Users", "RenderUserTable", "Admin")
+                        </li>
+                    }
+                    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new {id = "logoutForm"})) {
+                        @Html.AntiForgeryToken()
+                        <li>
+                            <a href="javascript:document.getElementById('logoutForm').submit()">Log off</a>
+                        </li>
+                    }
+                } else {
+                    <li>
+                        @Html.ActionLink("Login", "Login", "Account")
+                    </li>
+                    <li>
+                        @Html.ActionLink("Register", "Register", "Account")
+                    </li>
+                }
+            </ul>
+        </div>
+        <!-- END MENU -->
+    </div>
+</div>

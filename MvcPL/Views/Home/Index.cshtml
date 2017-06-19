@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div id="dialog"></div>
+<h4>Audio Files</h4>
+<hr />
+@Html.Partial("_Search")
+
+@Html.Action("RenderTable")
+
+
+
+
+<script type="text/javascript">
+    function getForm() {
+
+
+        $('#dialog').dialog({
+            autoOpen: true,
+            width: 400,
+            resizable: false,
+            title: 'Add File',
+            modal: true,
+            open: function(event, ui) {
+                $(this).load('@Url.Action("AddAudioFile","Home")');
+                $('#dialog').css('overflow', 'hidden');
+            },
+            buttons: {
+
+                "Save": function () {
+                   
+                    var formData = new FormData($('#form-create').get(0));
+
+                    $.ajax({
+                        contentType: false,
+                        processData: false,
+                        type: "POST",
+                        dataType: "json",
+                        url: '@Url.Action("AddAudioFile","Home")',
+                        data: formData,
+                        success: function (result) {
+                            if (result === true) {
+                                $("#audioTable").load('@Url.Action("RenderTable","Home")', function () { ajaxButtons(); });
+                                alertify.success("Record added successful");
+                                $('#dialog').dialog("close");
+                            }
+                        }
+                    });
+                }
+            }
+        });
+    }
+</script>

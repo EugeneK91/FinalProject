@@ -1,0 +1,10 @@
+﻿@using MvcPL.Models.AccountModel
+@using MvcPL.Models
+@model  IndexViewModel<AudioFileViewModel>
+@{
+    ViewBag.Title = "AudioTable";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Partial("_AudioTable",@Model)
+

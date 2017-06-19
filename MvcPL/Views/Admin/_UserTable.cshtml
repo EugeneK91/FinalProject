@@ -1,0 +1,115 @@
+﻿
+@using BLL.Mappers
+@using MvcPL.Models
+@using MvcPL.Models.UserModel
+@using MvcPL.Infrastructure.Enums;
+@using EnumHelper = MvcPL.Infrastructure.CustomHelpers.EnumHelper;
+
+@model IndexViewModel<UserViewModel>
+@{ 
+    Layout = null;
+}
+
+@if (Model.Items.Any())
+{
+    <div id="userTable">
+        <h4>Users</h4>
+        <hr />
+        <table class="table table-striped table-bordered table-hover table-condensed">
+            <thead>
+            <tr>
+                <td>@Html.Label("№")</td>
+                <td>@Html.Label("Name")</td>
+                <td>@Html.Label("Email")</td>
+                <td>@Html.Label("Role")</td>
+                <td>@Html.Label("Photo")</td>
+                <td></td>
+
+            </tr>
+            </thead>
+          
+            @{
+                var index = 1 + (Model.PageInfo.PageNumber-1)*10;
+
+                foreach (var user in Model.Items)
+                {
+
+                    <tr>
+                        <td>@index</td>
+                        <td>@user.Name</td>
+                        <td>@user.Email</td>
+                        <td>
+                            @EnumHelper.GetDescription((((Role) user.RoleId)))
+                        </td>
+                        <td>
+                            <div class="userpic">
+
+                                    @Html.Image(user.Photo,null,new[] { "height: 20px", "width: 20px" })
+
+                            </div>
+                        </td>
+                        <td>
+                            <div  class="delete-buttons-enabledJs"  style="visibility: hidden">
+                                  <button class="btn btn-danger" onclick="deleteUser(@user.Id)"><i class="fa fa-times" aria-hidden="true"></i> Delete</button>
+                            </div>
+                                <div class="delete-buttons-disabledJs" >
+                                    <a class="btn btn-danger" href='@Url.Action("DeleteUser","Admin",new {id=@user.Id })' ><i class="fa fa-times" aria-hidden="true"></i> Delete</a>
+                                </div>
+
+                        </td>
+                    </tr>
+                    index++;
+                }
+            }
+        </table> 
+        <div class="btn-group">
+            @Html.PageLinks(Model.PageInfo, x => "pagination("+x+")")
+        </div>
+    </div>
+
+}
+
+<script type="text/javascript">
+    $(function () {
+        jsEnabled();
+    })
+    function deleteUser(id) {
+            $.confirm({
+                title: "Delete Record ?",
+                buttons: {
+                    confirm: {
+                        text: 'OK',
+                        btnClass: 'btn-blue',
+                        action: function () {
+                            $.ajax({
+                                type: "POST",
+                                dataType: "json",
+                                url: '@Url.Action("DeleteUser", "Admin")',
+                                data: { "id": id },
+                                success: function (response) {
+                                    if (response === true)
+                                        $("#userTable").load('@Url.Action("RenderPartialUserTable", "Admin", new { isPartial=true })', function () {
+                                            jsEnabled();
+                                        });
+                                }
+                            });
+                        }
+                    },
+                    cancel: function (button) {
+
+                    }
+                }
+           });
+        
+    }
+
+    function jsEnabled() {
+
+        $('.delete-buttons-disabledJs').remove();
+        $('.delete-buttons-enabledJs').css('visibility', 'visible');
+    }
+
+    function pagination(pageNumber) {
+        $("#audioTable").load('@Url.Action("RenderUserTable","Admin")?page=' + pageNumber);
+    }
+</script>

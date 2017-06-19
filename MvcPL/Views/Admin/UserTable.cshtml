@@ -1,0 +1,14 @@
+﻿@using BLL.Mappers
+@using MvcPL.Models
+@using MvcPL.Models.UserModel
+@using MvcPL.Infrastructure.Enums;
+@using EnumHelper = MvcPL.Infrastructure.CustomHelpers.EnumHelper;
+
+@model IndexViewModel<UserViewModel>
+@{
+    ViewBag.Title = "UserTable";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@Html.Partial("_UserTable",Model)
+
